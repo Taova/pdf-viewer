@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://taova.github.io/pdf-viewer/",
+  "homepage": "https://taova.github.io/pdf-viewer",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
