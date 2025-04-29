@@ -1,6 +1,6 @@
 import { ReferenceItem } from "../types";
 
-export const PDF_URL = "/wa-cigna-dental-preventive-policy.pdf";
+export const PDF_URL = import.meta.env.BASE_URL + "/wa-cigna-dental-preventive-policy.pdf";
 
 export const PDF_SCALE = 1.5;
 
