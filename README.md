@@ -1,5 +1,8 @@
 # PDF viewer
-## React + TypeScript + Vite
+A React + TypeScript + Vite pet-project for in-browser PDF viewing and text highlighting.  
+It leverages **pdfjs-dist** for rendering PDFs,
+**React.lazy/Suspense** for code-splitting,
+and a sidebar for quick navigation to highlighted references.
 
 
 ## Prerequisites
