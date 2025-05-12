@@ -1,6 +1,6 @@
-# React + TypeScript + Vite
+# PDF viewer
+## React + TypeScript + Vite
 
-This template provides a minimal setup for running React in Vite with HMR and basic ESLint rules.
 
 ## Prerequisites
 
@@ -25,3 +25,7 @@ npm run preview
 # Run ESLint
 npm run lint
 ```
+
+## Live Demo
+
+Try it out: https://taova.github.io/pdf-viewer/
